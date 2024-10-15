@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrbreeden
-- 👀 I’m interested in  Software Engineering, reading, and spending time with my family
-- 🌱 I’m currently learning  Software Engineering
+- 👀 I’m interested in Software Engineering, reading, and spending time with my family
+- 🌱 I’m certified in Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jrbreeden55@gmail.com
 
